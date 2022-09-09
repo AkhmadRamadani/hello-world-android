@@ -1,3 +1,24 @@
 <resources>
-    <string name="app_name">Mobile Minggu 1</string>
+    <string name="app_name">Picture in Picture</string>
+    <string name="helloWorldText">Hello World</string>
+    <string name="secondText">From strings.xml</string>
+    <string name="startText">start learning</string>
+    <string name="successMessage">Welcome back, Rama!</string>
+    <string name="warningMessage">Warning! the caps lock key is on</string>
+    <string name="alertMessage">Your email is not registered!</string>
+    <string name="simpleText">Simple avatar</string>
+    <string name="userInfo">Enter your email and password to login</string>
+    <string name="hintPass">Password</string>
+    <string name="hintEmail">Email</string>
+    <string name="loginText">Login</string>
+    <string name="newAccountQuestion">New account?</string>
+    <string name="registerText">Register</string>
+    <string name="sample_button">Free Sample</string>
+    <string name="buy_button">Buy IDR 67.000</string>
+    <string name="contentText">Lorem ipsum dolor sit amet, consectetur adipiscing elit, seddoeiusmod tempor incididunt ut laboreet dolore magna aliqua. Ut enimadminim veniam, quis nostrudexercitation ullamco laboris nisi ut
+aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit
+in voluptate velit esse cillumdoloreeufugiat nulla pariatur.</string>
+    <string name="title">Aladdin (2019)</string>
+    <string name="publisher">Walt Disney Pictures</string>
+
 </resources>
